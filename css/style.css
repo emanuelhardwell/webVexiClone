@@ -15,3 +15,8 @@ body {
 .section2 {
   background: rgb(71, 66, 66);
 }
+
+.section6 {
+  background: url("/img/banner.jpg");
+  max-width: 100%;
+}
