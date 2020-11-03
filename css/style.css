@@ -1,6 +1,11 @@
 /* 
 
 */
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: radial-gradient(rgb(71, 66, 66), rgb(29, 28, 28));
   min-height: 100vh;
