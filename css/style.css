@@ -18,7 +18,8 @@ body {
 
 .section6 {
   background: url("/img/banner.jpg");
-  max-width: 100%;
+  background-size: cover;
+  width: 100%;
 }
 
 .section14 {
@@ -27,4 +28,13 @@ body {
 
 .footer {
   background: rgb(0, 0, 0);
+}
+
+.link {
+  text-decoration: none !important;
+  color: #fff !important;
+}
+
+.fab {
+  color: #fff;
 }
